@@ -6,6 +6,10 @@
   <br/>
   <br/>
   
+  # Demo 
+
+![alt text](https://github.com/aldundur-Mansour/Project02/blob/main/DemoP02.gif?raw=true)
+
   ## الوصف
 اختيار فكرة المشروع راجعة للطالب بحيث يتم ادراج المتطلبات ادناه كاملةً. 
 <br>
