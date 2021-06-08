@@ -28,7 +28,7 @@ componentDidMount() {
   callApi() {
     axios({
       method: "get",
-      url: "quotes/random"
+      url: "https://officeapi.dev/api/quotes/random"
     }).then((response) => {
       this.setState({ data: response.data.data })
       console.log("res", this.state.data);
